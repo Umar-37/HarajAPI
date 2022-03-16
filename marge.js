@@ -12,7 +12,6 @@ const omar = {
 }
 let pageNumber=1;
 //let city='الرياض'
-//const url = 'https://graphql.haraj.com.sa/?queryName=initialPosts&token=&clientId=OzSuJomt-2WRC-oLq7-an4k-lgahehAcpMuev3&version=8.2.1%20,%2011%2024%20-%202%20-%2022/'
 const url = 'https://graphql.haraj.com.sa/'
 
 async function fetchMovies() {
